@@ -1,3 +1,9 @@
+All credit around the design goes to the team at HTML5 UP, the design temps they have to use are 
+great! I would reccomend checking it out.
+-Chris 
+
+
+
 Directive by HTML5 UP
 html5up.net | @ajlkn
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
