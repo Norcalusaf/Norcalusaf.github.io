@@ -3193,11 +3193,6 @@ input, select, textarea {
 				#header .logo {
 					font-size: 1.5em;
 				}
-				#header.chris {
-					max-width: 100%;
-					max-height: 100%;
-				}
-
 				#header h1 {
 					font-size: 1.25em;
 				}
